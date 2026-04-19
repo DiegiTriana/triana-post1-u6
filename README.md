@@ -24,7 +24,7 @@ mvn exec:java
 ## Resultado esperado
 Se mantiene la funcionalidad original, pero con responsabilidades separadas y dependencias por constructor donde aplica.
 
-## Evidencias de Verificacion (2026-04-17 16:26:56)
+## Evidencias de Verificacion (
 
 | Checkpoint | Estado | Evidencia |
 |---|---|---|

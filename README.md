@@ -37,25 +37,6 @@ Se mantiene la funcionalidad original, pero con responsabilidades separadas y de
 | Repositorio tiene al menos 3 commits | PASS | commits=3 |
 
 ### Salida de ejecucion
-
-```text
-Libro agregado: Clean Code
-Libro agregado: Design Patterns
-Socio registrado: Ana Torres
-Prestamo realizado: Clean Code -> socio S01
-=== REPORTE BIBLIOTECA ===
-Libros registrados : 2
-Libros disponibles : 1
-Socios registrados : 1
-Prestamos activos  : 1
-==========================
-Libro devuelto: Clean Code
-=== REPORTE BIBLIOTECA ===
-Libros registrados : 2
-Libros disponibles : 2
-Socios registrados : 1
-Prestamos activos  : 0
-==========================
-```
+![console](captura1.png)
 
 
